@@ -36,5 +36,5 @@
 {/if}
 {#if json}
 	<Object json = {json} hidden = {false}></Object>
-	<button on:click = {send}>Save!</button>
+	<button on:click = {send}>Download!</button>
 {/if}
